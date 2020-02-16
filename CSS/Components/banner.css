@@ -1,0 +1,25 @@
+
+.banner {
+	background-image: url(../../images/mojitos.jpg);
+	height: 330px;
+	color: white;
+	padding: 90px 0px;
+	background-size: cover;
+	background-position: center;
+
+}
+
+.banner h1 {
+	font-size: 40px;
+	color: #1B512D;
+	font-family: 'Domine', serif;
+}
+
+.banner h2 {
+	font-size: 27px;
+	font-weight: lighter;
+	opacity: 0.9;
+	color: black;
+}
+
+

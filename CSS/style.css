@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Domine&display=swap');
+
+/* Importing all components file*/
+
+@import url("Components/banner.css");
+@import url("Components/button.css");
+@import url("Components/container.css");
+@import url("Components/card.css");
+
+/* General style rules for fonts and colors */
+
+body {
+	margin: 0px;
+	background-color: #F3F9EF;
+}
+
+a {
+	text-decoration: none;	
+}
+
+a:hover {
+	font-size: 17px;
+	color: #1B512D;
+}
+
+h1{
+	color: #1B512D;
+	font-family: 'Fjalla One', sans-serif;
+}
